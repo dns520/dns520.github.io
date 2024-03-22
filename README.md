@@ -1,4 +1,4 @@
-# qq_fanghong
+# qq_WX_fanghong
 
 ## 引言
 
@@ -6,6 +6,6 @@
 
 ## 使用方法
 
-进入该网址：[fanghong.yiove.com](https://fanghong.yiove.com)
+进入该网址：[https://dns520.github.io/](https://dns520.github.io/)
 
-搭建教程：[https://www.skyqian.com/archives/qq-weixin_fanghong.html](https://www.skyqian.com/archives/qq-weixin_fanghong.html)
+DNS导航网：[https://www.111dns.com/](https://www.111dns.com/)
